@@ -2,3 +2,11 @@ body {
     background-color: darkblue;
     color: white;
 }
+P {
+    text-align: justify; /*sortkizárt szöveg*/
+}
+
+h1,h2,P {
+    color: brown;
+}
+
