@@ -1,8 +1,0 @@
-[filter "lfs"]
-	clean = git-lfs clean -- %f
-	smudge = git-lfs smudge -- %f
-	process = git-lfs filter-process
-	required = true
-[user]
-	name = Nagy Dominik István
-	email = ndominik20091101@gmail.com
